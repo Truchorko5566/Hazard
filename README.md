@@ -2,7 +2,7 @@
 
    <img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Nuker?style=social" alt="shield.png"></a>
    <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?style=social" alt="shield.png"></a>
-   <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield " alt="escudo.png"></a>
+   <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="escudo.png"></a>
 
 #### Hazard Nuker fue hecho por
 Amor ❌
