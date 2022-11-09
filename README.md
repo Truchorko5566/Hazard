@@ -64,8 +64,8 @@ Cambia entre el modo claro/oscuro siempre que la consola esté abierta
 #### [8] Desactivar token
 Deshabilita el token de los usuarios
 
-#### [9]: Salir
-Salir del programa
+#### [9]: Y mas...
+Mas de 18 sistemas incluidos...
 
 | 🌟¡Estrella este repositorio si te ha ayudado!|
 |----------------------------------------------|
